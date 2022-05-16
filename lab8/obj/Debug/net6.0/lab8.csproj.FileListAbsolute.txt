@@ -1,0 +1,15 @@
+/Users/annayedka/RiderProjects/lab8/lab8/obj/Debug/net6.0/lab8.csproj.AssemblyReference.cache
+/Users/annayedka/RiderProjects/lab8/lab8/obj/Debug/net6.0/lab8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annayedka/RiderProjects/lab8/lab8/obj/Debug/net6.0/lab8.AssemblyInfoInputs.cache
+/Users/annayedka/RiderProjects/lab8/lab8/obj/Debug/net6.0/lab8.AssemblyInfo.cs
+/Users/annayedka/RiderProjects/lab8/lab8/obj/Debug/net6.0/lab8.csproj.CoreCompileInputs.cache
+/Users/annayedka/RiderProjects/lab8/lab8/bin/Debug/net6.0/lab8
+/Users/annayedka/RiderProjects/lab8/lab8/bin/Debug/net6.0/lab8.deps.json
+/Users/annayedka/RiderProjects/lab8/lab8/bin/Debug/net6.0/lab8.runtimeconfig.json
+/Users/annayedka/RiderProjects/lab8/lab8/bin/Debug/net6.0/lab8.dll
+/Users/annayedka/RiderProjects/lab8/lab8/bin/Debug/net6.0/lab8.pdb
+/Users/annayedka/RiderProjects/lab8/lab8/obj/Debug/net6.0/lab8.dll
+/Users/annayedka/RiderProjects/lab8/lab8/obj/Debug/net6.0/refint/lab8.dll
+/Users/annayedka/RiderProjects/lab8/lab8/obj/Debug/net6.0/lab8.pdb
+/Users/annayedka/RiderProjects/lab8/lab8/obj/Debug/net6.0/lab8.genruntimeconfig.cache
+/Users/annayedka/RiderProjects/lab8/lab8/obj/Debug/net6.0/ref/lab8.dll
